@@ -6,6 +6,8 @@ This repository focuses on my learning path of Python for Data Science.
 Here, I haven't included the files of Chapter 1, since there was no practical implementation of it. It focussed more on the introductory part and the professional careers in this field.
 However, I am listing out few points regarding the same.
 
+Note that Chapter-3 files are not added. However, the topics added are enlisted below:
+
 ## Chapter 1 - Introduction to the Data Professions
 
 ### The Four Flavours of Data Science
@@ -20,4 +22,19 @@ However, I am listing out few points regarding the same.
 - Removing duplicates
 - Concatenating and transforming
 - Grouping and aggregation
+
+## Chapter 3 - Data Visualization 101
+- The three types of Data Visualization
+- Selecting optimal data graphics
+- Communicating with color and context
+
+## Chapter 4 - Practical Data Visualization
+- Creating standard data graphics
+- Defining elements of a plot
+- Plot formatting
+- Creating labels and annotations
+- Visualizing time series
+- Creating statistical data graphics
+
+
 
