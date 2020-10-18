@@ -36,5 +36,17 @@ Note that Chapter-3 files are not added. However, the topics added are enlisted 
 - Visualizing time series
 - Creating statistical data graphics
 
+## Chapter 5 - Basic Math & Statistics
+- Simple arithmetic
+- Basic linear algebra
+- Generating summary statistics
+- Summarizing categorical data
+- Parametric correlation statistics
+- Non-parametric correlation statistics
+- Transforming dataset distributions
+- Extreme value analysis for outlines
+- Multivariate analysis for outliners
+
+
 
 
