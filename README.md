@@ -47,6 +47,14 @@ Note that Chapter-3 files are not added. However, the topics added are enlisted 
 - Extreme value analysis for outlines
 - Multivariate analysis for outliners
 
+## Chapter 6 - Data Sourcing via Web Scraping
+- BeautifulSoup object
+- NavigableString objects
+- Data parsing
+- Web scraping in practice
+- Introduction to NLP
+- Cleaning and stemming textual data
+- Lemmatizing and analyzing text data
 
 
 
