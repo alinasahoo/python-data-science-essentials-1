@@ -56,5 +56,12 @@ Note that Chapter-3 files are not added. However, the topics added are enlisted 
 - Cleaning and stemming textual data
 - Lemmatizing and analyzing text data
 
+## Chapter 7 - Collaborative Analytics with Plotly
+- Introduction to Plotly
+- Create statistical charts
+- Line charts in Plotly
+- Bar charts and pie charts in Plotly
+- Create statistical charts
+
 
 
