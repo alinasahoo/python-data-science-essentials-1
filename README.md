@@ -1,4 +1,4 @@
-# Python - Data Science Essentials
+# Python - Data Science Essentials (Part 1)
 ## Date: 13th October, 2020 - Present
 
 This repository focuses on my learning path of Python for Data Science. 
@@ -6,7 +6,7 @@ This repository focuses on my learning path of Python for Data Science.
 Here, I haven't included the files of Chapter 1, since there was no practical implementation of it. It focussed more on the introductory part and the professional careers in this field.
 However, I am listing out few points regarding the same.
 
-Note that Chapter-3 files are not added. However, the topics added are enlisted below:
+Note that Chapter-3 files are not added. Chapter 7 files have been deprecated! However, the topics added are enlisted below:
 
 ## Chapter 1 - Introduction to the Data Professions
 
