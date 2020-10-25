@@ -1,5 +1,5 @@
 # Python - Data Science Essentials (Part 1)
-## Date: 13th October, 2020 - Present
+## Date: 13th October, 2020 - 25th October, 2020
 
 This repository focuses on my learning path of Python for Data Science. 
 
